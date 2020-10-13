@@ -5,3 +5,5 @@
 1. git add <"변경한 파일이름">
 2. git commit -m <"커밋 로그">
 3. git push
+
+add. git
